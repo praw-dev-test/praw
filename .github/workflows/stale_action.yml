@@ -2,7 +2,7 @@ jobs:
   stale_action:
     name: Close stale issues and PRs
     secrets: inherit
-    uses: praw-dev/.github/.github/workflows/stale_action.yml@main
+    uses: praw-dev-test/.github/.github/workflows/stale_action.yml@main
 name: Close stale issues and PRs
 on:
   schedule:

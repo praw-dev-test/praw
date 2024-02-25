@@ -120,7 +120,7 @@ Please also read `Contributing to PRAW`_.
 
 .. _contributing to praw: https://praw.readthedocs.io/en/latest/package_info/contributing.html
 
-.. _contributor code of conduct: https://github.com/praw-dev/.github/blob/main/CODE_OF_CONDUCT.md
+.. _contributor code of conduct: https://github.com/praw-dev-test/.github/blob/main/CODE_OF_CONDUCT.md
 
 .. _pre-commit: https://pre-commit.com
 
