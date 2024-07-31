@@ -6,7 +6,7 @@ jobs:
 name: Update pre-commit hooks
 on:
   schedule:
-    - cron: 29 16 * * *
+    - cron: 38 16 * * *
   workflow_dispatch:
 permissions:
   contents: write
